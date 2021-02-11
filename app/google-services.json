@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461502626649",
+    "firebase_url": "https://admin-ae826-default-rtdb.firebaseio.com",
+    "project_id": "admin-ae826",
+    "storage_bucket": "admin-ae826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461502626649:android:10d4571087cb42cabdaa48",
+        "android_client_info": {
+          "package_name": "com.noviam.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461502626649-03q19076ev75gfbj7m73t2l3ngu3k7lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgt8rtsS27o_ZcRxicMNtWObwrVOFeeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461502626649-03q19076ev75gfbj7m73t2l3ngu3k7lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

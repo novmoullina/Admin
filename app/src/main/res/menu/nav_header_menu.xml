@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/hal_kuliner"
+            android:icon="@drawable/restaurant"
+            android:title="@string/kuliner" />
+        <item
+            android:id="@+id/hal_wisata"
+            android:icon="@drawable/calendar"
+            android:title="@string/wisata" />
+        <item
+            android:id="@+id/hal_hotel"
+            android:icon="@drawable/hotel"
+            android:title="@string/hotel" />
+
+    </group>
+</menu>

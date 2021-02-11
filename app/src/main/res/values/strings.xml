@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="judul">Explore Pku</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="wisata">Wisata</string>
+    <string name="hotel">Hotel</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="inputkuliner">Input Kuliner</string>
+    <string name="namatempat">Nama Tempat</string>
+    <string name="update">Update</string>
+    <string name="tambah">Tambah</string>
+    <string name="hapus">Hapus</string>
+    <string name="halaman_list">Halaman Input</string>
+    <string name="alamat">Alamat</string>
+    <string name="deskripsi">Deskripsi</string>
+
+        <string name="halaman_sumatra">Resep Sumatra</string>
+        <string name="halaman_jawa">Resep Jawa</string>
+        <string name="halaman_kalimantan">Resep Kalimantan</string>
+        <string name="halaman_sulawesi">Resep Sulawesi</string>
+        <string name="halaman_papua">Resep Papua</string>
+        <string name="nama_profile">Hello Admin</string>
+        <string name="aceh">Aceh</string>
+        <string name="sumut">Sumatera Utara</string>
+        <string name="riau">Riau</string>
+        <string name="sumbar">Sumatera Barat</string>
+        <string name="jambi">Jambi</string>
+        <string name="sumsel">Sumatera Selatan</string>
+        <string name="bengkulu">Bengkulu</string>
+        <string name="bandarlampung">Bandar Lampung</string>
+        <string name="bangka">Bangka Belitung</string>
+        <string name="kepri">Kepulauan Riau</string>
+        <string name="banten">Banten</string>
+        <string name="jabar">Jawa Barat</string>
+        <string name="jakarta">Jakarta</string>
+        <string name="jateng">Jawa Tenggah</string>
+        <string name="yogya">Yogyakarta</string>
+        <string name="jatim">Jawa Timur</string>
+        <string name="bali">Bali</string>
+        <string name="ntt">Nusa Tenggara Timur</string>
+        <string name="ntb">Nusa Tenggara Barat</string>
+        <string name="kalbar">Kalimantan Barat</string>
+        <string name="kalut">Kalimantan Utara</string>
+        <string name="kalsel">Kalimantan Selatan</string>
+        <string name="kaltim">Kalimantan Timur</string>
+        <string name="kalteng">Kalimantan Tengah</string>
+        <string name="pabar">Papua Utara</string>
+        <string name="papua1">Papua </string>
+        <string name="gorontalo">Gorontalo</string>
+        <string name="sulbar">Sulawesi Barat</string>
+        <string name="sulsel">Sulawesi Selatan</string>
+        <string name="sulteng">Sulawesi Tengah</string>
+        <string name="seltenggara">Sulawesi Tenggara</string>
+        <string name="sulut">Sulawesi Utara</string>
+        <string name="map">MAP</string>
+        <string name="nama">Nama</string>
+        <string name="alat">Alat : </string>
+        <string name="bahan">Bahan : </string>
+        <string name="cara">Cara : </string>
+        <string name="simpan">Simpan</string>
+        <string name="update_data">Update Data Anggota</string>
+    <string name="new_user_register_now">Register</string>
+
+
+        <string name="judul_tambah_detil">Tambah Data Kuliner</string>
+        <string name="detil_alamat">Alamat Lengkap</string>
+        <string name="detil_tombol_tambah">Tambah Data</string>
+        <string name="item_alat">Alat</string>
+        <string name="item_bahan">Bahan</string>
+        <string name="item_cara">Cara</string>
+        <string name="anggota_nama">Nama</string>
+        <string name="anggota_kota">Kota Lahir</string>
+        <string name="anggota_usia">Usia</string>
+        <string name="anggota_php">No HP</string>
+
+
+</resources>
